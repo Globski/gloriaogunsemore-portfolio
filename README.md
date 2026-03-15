@@ -1,25 +1,36 @@
-# 100 Days Web Development Journey & Designs
+# Personal Portfolio – Gloria Ogunsemore
 
-Welcome to my **100 Days Web Development** repository!  
-This repo documents my daily progress learning web development, including projects, code snippets, and all related Figma designs.
+## Description
+Welcome to my **Personal Portfolio Website**
+This portfolio showcases my **skills, projects, and experience** as a web developer. It was created to highlight my **web development abilities,** the **projects I’ve worked on,** and my **learning journey and growth** over time.
 
-## What’s Inside?
+---
 
-- **Day-by-day code projects** showcasing HTML, CSS, JavaScript, and frameworks
-- **Figma design files and screenshots** for UI/UX inspiration and implementation
-- **Notes and resources** gathered during the journey
+# Technologies Used
+	•	HTML5
+	•	CSS3
+	•	JavaScript
 
-## How to Use This Repo
+---
 
-1. Browse through the daily folders named `day-01`, `day-02`, etc., to see code projects.
-2. Check out the `designs` folder where I store exported Figma screenshots and links.
-3. Each day includes a README with a summary, challenges, and learnings.
-4. Feel free to explore the Figma links embedded for interactive design review.
+# Project Structure
 
-## Why 100 Days?
+```
+gloriaogunsemore-portfolio/
+│
+├── index.html
+│   └── styles.css
+│   └── script.js
+│   └── images
+└── README.md
+```
 
-Committing to 100 days helps build consistency and skills.
+---
 
-**Happy coding and designing! 🚀**
+# What You’ll Find in My Portfolio
+	•	Featured Projects – Selected work demonstrating my development skills
+	•	Technical Skills – Technologies and tools I work with
+	•	About Me – My background and goals as a developer
+	•	Contact Information – How to reach me for opportunities
 
 ---
