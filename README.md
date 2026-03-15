@@ -19,9 +19,9 @@ This portfolio showcases my **skills, projects, and experience** as a web develo
 gloriaogunsemore-portfolio/
 │
 ├── index.html
-│   └── styles.css
-│   └── script.js
-│   └── images
+│── styles.css
+│── script.js
+│── images
 └── README.md
 ```
 
